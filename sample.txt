@@ -2,4 +2,3 @@ Hello welcome
 Good Morning
 Good night
 example of conflict
-Main branch code
